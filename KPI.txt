@@ -1,0 +1,41 @@
+Quels sont les meilleurs acteurs ?
+Quels sont les meilleurs réalisateurs ?
+Quels sont les films ayant générés le plus de revenus ?
+Quels sont les acteurs les plus bankable ?
+
+Fait-on encore de bons films ? Quand a-t-on fait les meilleurs film ?
+QUels moments de l'années sont les plus propices pour maximiser les revenus ?
+
+
+Y a-t-il une relaion entre la note du film et sa rentabilité ?
+Y-a-t-il un lien entre la durée et la rentabilité ?
+Quelle est la durée optimale pour qu'un film soit le plus rentable ?
+
+
+Quels sont les pays produisant le plus de films rentables ? De films non rentables ?
+
+
+____________ SI BASE OSCAR _______________
+
+Les films les plus oscarisées ?
+
+La relation entre les films oscarisées et leur rentabilité
+La relation entre les films oscarisées et leur note
+La relation entre les films oscarisées et leur durée
+La relation entre les films oscarisées et le nombre de film réalisés/joués
+
+Les acteurs les plus oscarisées
+
+La moyenne d'oscars par film par acteur / directeur 
+
+Quel sont les types de film les plus oscarisés ?
+
+Quel tranche d'age rapporte le plus d'oscar ?
+
+QUel sont les pays producteurs de film les plus oscarisé ?
+
+Quelle est la répartition par sexe des réalisateurs ayant remporté des oscars ?
+
+
+
+
