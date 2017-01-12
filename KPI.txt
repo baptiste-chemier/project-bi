@@ -15,6 +15,19 @@ Quelle est la durée optimale pour qu'un film soit le plus rentable ?
 Quels sont les pays produisant le plus de films rentables ? De films non rentables ?
 
 
+QUels sont les films les plus populaires ?
+Quels sont les films au plus gros budget ?
+Quels sont les meilleurs films ?
+Quels sont les films les plus notés?
+
+Il y a-t-il un lien entre le nombre de note et la moyenne ?
+
+Il y a-t-il un lien entre le budget du film et sa note ? et sa durée ? et sa rentabilité ?
+
+Quels sont les genres les plus aimé ? populaire ?
+Quels sont les genres qui nécéssite le plus gros budget ?
+QUels sont les genres les plus rentable ?
+
 ____________ SI BASE OSCAR _______________
 
 Les films les plus oscarisées ?
@@ -35,6 +48,8 @@ Quel tranche d'age rapporte le plus d'oscar ?
 QUel sont les pays producteurs de film les plus oscarisé ?
 
 Quelle est la répartition par sexe des réalisateurs ayant remporté des oscars ?
+
+Quel est le lien entre le budget et les récompenses ?
 
 
 
