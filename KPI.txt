@@ -54,3 +54,11 @@ Quel est le lien entre le budget et les récompenses ?
 
 
 
+KPI ANALYSES PREDICTIVES :
+
+A partir d'un film à venir et des acteur de ce film :
+
+Estimer la rentabilité du film.
+
+Estimer le meilleur moment de l'année pour la sortie de ce film.
+
